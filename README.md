@@ -1,5 +1,5 @@
 # Work-Sample
-This is the final assessment of the Data Analysis module, which comprises of three questions.
+This is the final assessment for the Data Analysis module, consisting of three questions outlined below.
 
 ## Part I 
 ### QUESTION A: Describing and Classifying Tweets
