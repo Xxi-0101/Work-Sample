@@ -7,8 +7,8 @@ Many companies monitor social media posts to gauge how customers feel about thei
 
 
 ## Part II
-### QUESTION B: Describing and Classifying Tweets
+### QUESTION B: Support for the British Labour Party
 The next General election for the British parliament will be held by January 2025. For this question, suppose that you work for a political consultancy, and the Labour Party has contacted you for your expertise. The party would like to target their upcoming election campaign towards those who are most likely to vote for them. Your job is to tell them which types of people are most supportive of the Labour Party. To help measure the likely effectiveness of their advertising, they also want to know how much each characteristic matters in explaining support. To answer these questions you will look at data on how people voted previously from a survey of 723 British voters in the European Social Survey. This was fielded in 2022 and asked about respondents' vote in the last election.
 
-### QUESTION C: Describing and Classifying Tweets
+### QUESTION C: Estimating Constituency-Level Results from the EU Referendum
 In the 2016 referendum on leaving the EU, results were not released for individual electoral constituencies. However, many scholars would like to know why people voted to leave the EU and how support differed across constituencies. One previous study by Chris Hanretty has already estimated constituency-level support for ‘leave’ authoritatively. Your tasks in this question are (i) to produce estimates of the percentage of voters that voted ‘leave’ in every constituency in Great Britain using multilevel modeling and post-stratification that are as close as possible to the Hanretty estimates, as measured by the Mean Absolute Error, and (ii) to use your results to explain why people voted to leave.
